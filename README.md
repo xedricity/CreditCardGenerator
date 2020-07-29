@@ -13,3 +13,5 @@ Here's a valid credit card generator tool developed by yours truly.
 
 <h2>Here's a demo</h2>
 <a href="https://xedricity.com/fake-dummy-credit-card-number-generator">https://xedricity.com/fake-dummy-credit-card-number-generator</a>
+
+<p>The main.js file is where the magic happens.</p>
